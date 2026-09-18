@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "name": "워크테크",
+  "brand": "WORKTECH",
+  "mark": "WO",
+  "worker": "worktech",
+  "url": "https://worktech.webnote-lab.workers.dev",
+  "description": "워크테크의 정보와 실용 가이드를 정리합니다.",
+  "tagline": "워크테크, 차근차근 알아보기",
+  "categories": [
+    {
+      "description": "워크테크의 정보와 실용 가이드를 정리합니다.",
+      "name": "워크테크",
+      "slug": "worktech"
+    }
+  ],
+  "contact_url": "https://github.com/starex1001-ai/worktech/issues"
+}
